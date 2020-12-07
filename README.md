@@ -1,4 +1,6 @@
 
+![CAD model](6channel_quick_disconnect.png)
+
 `6channel_quick_disconnect.FCStd` produced with FreeCAD `0.19`. All parts
 besides `release_bar` were derived from McMaster-Carr supplied 3D models.
 

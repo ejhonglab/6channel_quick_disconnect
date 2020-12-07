@@ -13,6 +13,8 @@ This assembly aims to allow rapidly exchanging groups of 6 odor vials.
 | 10-32 thread to barb for 1/16" ID tube | [2974K123](https://www.mcmaster.com/2974K123) | 6 + 6 per-exchangeable-side | 
 | Release bar | N/A (3D printed from `release_bar.stl`) | 1 |
 
+### How files were generated
+
 `6channel_quick_disconnect.FCStd` produced with FreeCAD `0.19`. All parts
 besides `release_bar` were derived from McMaster-Carr supplied 3D models.
 

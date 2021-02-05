@@ -12,6 +12,7 @@ This assembly aims to allow rapidly exchanging groups of 6 odor vials.
 | Female 5/32" OD push-to-connect to 10-32 thread | [7880T115](https://www.mcmaster.com/7880T115) | 6 per-exchangeable-side |
 | 10-32 thread to barb for 1/16" ID tube | [2974K123](https://www.mcmaster.com/2974K123) | 6 + 6 per-exchangeable-side | 
 | Release bar | N/A (3D printed from `release_bar.stl`) | 1 |
+| Mounting screws | 92185A992 | 1 (25 pack) |
 
 ### How files were generated
 
